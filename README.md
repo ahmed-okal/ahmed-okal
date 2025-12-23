@@ -4,11 +4,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 Senior Flutter & Mobile Developer | Odoo Solutions Engineer
+  🚀 Senior Flutter Developer & Mobile Application Developer | Android & iOS Specialist
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Odoo+Applications+Engineer;Android+%26+iOS+Specialist;Clean+Architecture+Lover;UI%2FUX+Pixel+Perfect+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Applications+Engineer;Android+%26+iOS+Specialist;Clean+Architecture+Lover;UI%2FUX+Pixel+Perfect+Coder" />
 </p>
 
 ---
@@ -16,9 +16,9 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **Taaly App** (iOS & Android)
-- 🏢 Building **Active Deer** – an **Odoo app for clubs**
-- 🧾 Developed **POS Cube** (Odoo Desktop, Web & Tablet/iPad)
-- 📱 Built multiple production apps used by thousands of users
+- 🏢 Building **Active Deer** – Club management system
+- 🧾 Developed **POS Cube** (Desktop, Web & Tablet/iPad)
+- 📱 Built multiple production apps used by real users
 - 💻 MacBook user & Apple ecosystem lover 🍎
 - 🎯 Focused on **clean architecture, performance & scalability**
 
@@ -42,14 +42,14 @@
 
 ---
 
-### 🏢 Enterprise & Odoo Systems
+### 🏢 Large Scale Systems
 
 🔸 **Active Deer**
-- Odoo-based system for **sports clubs & management**
+- Club & membership management system
 
 🔸 **POS Cube**
-- Odoo **Desktop + Web + Tablet/iPad POS System**
-- Advanced invoicing, printing & multi-device support
+- Desktop + Web + Tablet/iPad POS system
+- Invoicing, printing & multi-device support
 
 ---
 
@@ -66,13 +66,12 @@
 - Clean Architecture
 - MVC / MVVM / GetX
 - REST APIs & Firebase
-- Odoo (ERP, POS, Custom Modules)
 - Git / GitHub / GitLab
 - CI/CD Basics
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-okal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -115,9 +114,9 @@
 ---
 
 <h3 align="center">
-  💡 “Build once. Scale everywhere.”  
+  💡 “Build once. Run everywhere.”
 </h3>
 
 <p align="center">
-  🚀 Always open to new challenges & collaborations
+  🚀 Always open to new mobile challenges & collaborations
 </p>
