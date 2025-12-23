@@ -29,8 +29,8 @@
 ### 📱 Mobile Applications
 
 🔹 **Taaly**
+- 🤖 Android: https://play.google.com/store/search?q=Taaly&c=apps 
 - 🍎 iOS: https://apps.apple.com/eg/app/taaly/id6451190448  
-- 🤖 Android: https://play.google.com/store/search?q=Taaly&c=apps  
 
 🔹 **Tasweer | تصوير**
 - 🤖 Android: https://play.google.com/store/apps/details?id=com.tasweer.app  
@@ -64,7 +64,8 @@
 
 ### 🧩 Architecture & Tools
 - Clean Architecture
-- MVC / MVVM / GetX
+- MVC / MVVM
+- Bloc and cubit / Provider / Getx / Riverpod
 - REST APIs & Firebase
 - Git / GitHub / GitLab
 - CI/CD Basics
