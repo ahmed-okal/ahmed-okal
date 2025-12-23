@@ -74,13 +74,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-okal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-okal&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-okal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-okal&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-okal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📈 Contribution Graph
+
+![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-okal&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-okal&theme=tokyonight&no-frame=true&margin-w=15)
+
 
 ---
 
