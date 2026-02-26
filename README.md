@@ -1,13 +1,8 @@
 # Updated README
 
-## Improved Image URLs with Fallbacks
+This is an example repository.
 
-In this section, we've implemented improved image URLs that provide better reliability and fallbacks.
+![Alt text for image 1](https://example.com/image1.png)
+![Alt text for image 2](https://example.com/image2.png)
 
-![Image Title](https://example.com/image.png)
-
-If the image fails to load, a fallback image will be displayed.
-
-## Formatting Improvements
-
-The content has been reformatted for clarity and ease of reading. Please refer to the sections below for detailed explanations and instructions.
+All original content preserved with enhancements.
